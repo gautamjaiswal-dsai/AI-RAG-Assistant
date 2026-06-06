@@ -1,0 +1,108 @@
+# =========================
+
+# CORE LANGCHAIN
+
+# =========================
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# =========================
+
+# NEW LANGCHAIN PACKAGES
+
+# =========================
+
+langchain-huggingface
+langchain-chroma
+
+# =========================
+
+# LLM PROVIDERS
+
+# =========================
+
+langchain-groq
+langchain-google-genai
+langchain-nvidia-ai-endpoints
+
+# =========================
+
+# VECTOR DATABASE
+
+# =========================
+
+chromadb
+
+# =========================
+
+# EMBEDDING MODELS
+
+# =========================
+
+sentence-transformers
+
+# =========================
+
+# DOCUMENT LOADERS
+
+# =========================
+
+pypdf
+unstructured
+beautifulsoup4
+lxml
+
+# =========================
+
+# TOKENIZER
+
+# =========================
+
+tiktoken
+
+# =========================
+
+# ENVIRONMENT VARIABLES
+
+# =========================
+
+python-dotenv
+
+# =========================
+
+# DATA HANDLING
+
+# =========================
+
+pandas
+numpy
+
+# =========================
+
+# API / BACKEND
+
+# =========================
+
+fastapi
+uvicorn
+
+# =========================
+
+# STREAMLIT UI
+
+# =========================
+
+streamlit
+
+# =========================
+
+# UTILITIES
+
+# =========================
+
+tqdm
+requests
+huggingface_hub
